@@ -1,4 +1,8 @@
-## IMineOS TE has released!
+## You may want to know this
+
+This repository has the Libraries from [HillOS](https://github.com/youaregod666/HillOS_TE/) and everything else from [IMineOS TE](https://github.com/youaregod666/IMineOS_TE/)
+
+## HillOS TE has released!
 
 Hello again, dear friend. Thank you for being with us and supporting our ideas throughout the long development cycle. IMineOS TE has finally reached the release stage: now it is a completely independent operating system with its own development API and wonderful [illustrated wiki](https://github.com/IgorTimofeev/MineOS/wiki) of it's usage. 
 IMineOS TE is a GUI based operating system for the OpenComputers Minecraft mod. It has extensive and powerful customisation abilities.
