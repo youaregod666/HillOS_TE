@@ -1,6 +1,6 @@
 ## You may want to know this
 
-This repository has the Libraries from [HillOS](https://github.com/youaregod666/HillOS_TE/) and everything else from [IMineOS TE](https://github.com/youaregod666/IMineOS_TE/)
+This repository has the Libraries from [HillOS](https://github.com/youaregod666/HillOS/) and everything else from [IMineOS TE](https://github.com/youaregod666/IMineOS_TE/)
 
 ## HillOS TE has released!
 
