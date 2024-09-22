@@ -121,4 +121,6 @@
 	uploading = "Subiendo...",
 	uploadingSuccess = "Subido a ",
 	uploadingFailure = "Subida Fallida: ",
+
+	Computerinfo = "información de la computadora",
 }

@@ -62,7 +62,7 @@
 	newFile = "ملف",
 	newFileFromURL = "ملف من URL",
 	newImage = "Image",
-	newApplication = "تطبيق MineOS",
+	newApplication = "تطبيق HillOS",
 	paste = "لصق",
 	copy = "نسخ",
 	cut = "قص",
@@ -110,7 +110,10 @@
 	mounts = "Mounts",
 	uploadToPastebin = "تحميل إلى Pastebin",
 	pasteName = "لصق الاسم",
+
 	uploading = "جاري التحميل...",
 	uploadingSuccess = "تم الرفع إلى ",
 	uploadingFailure = "فشل التحميل: "
+
+	Computerinfo = "معلومات الكمبيوتر",
 }

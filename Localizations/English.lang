@@ -64,7 +64,7 @@
 	newFile = "File",
 	newFileFromURL = "File from URL",
 	newImage = "Image",
-	newApplication = "MineOS application",
+	newApplication = "HillOS application",
 	paste = "Paste",
 	copy = "Copy",
 	cut = "Cut",
@@ -121,4 +121,7 @@
 	uploading = "Uploading in progress...",
 	uploadingSuccess = "Uploaded to ",
 	uploadingFailure = "Uploading failed: ",
+
+	Computerinfo = "Computer info",
+
 }

@@ -113,4 +113,6 @@
 	uploading = "अपलोड हो रहा है ...",
 	uploadingSuccess = "अपलोड किया गया ",
 	uploadingFailure = "अपलोड करना विफल: "
+
+	Computerinfo = "कंप्यूटर की जानकारी",
 }

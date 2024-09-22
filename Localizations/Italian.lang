@@ -121,4 +121,6 @@
 	uploading = "Caricamento in corso...",
 	uploadingSuccess = "Caricato su ",
 	uploadingFailure = "Caricamento fallito:",
+
+	Computerinfo = "Informazioni informatiche",
 }

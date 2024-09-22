@@ -121,4 +121,6 @@
 	uploading = "업로딩...",
 	uploadingSuccess = "다음으로 업로드 됨 : ",
 	uploadingFailure = "업로드 실패: ",
+
+	Computerinfo = "컴퓨터 정보",
 }

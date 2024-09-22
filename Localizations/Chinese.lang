@@ -121,4 +121,6 @@
 	uploading = "正在上传",
 	uploadingSuccess = "上传到..",
 	uploadingFailure = "无法上传",
+
+	Computerinfo = "电脑信息",
 }

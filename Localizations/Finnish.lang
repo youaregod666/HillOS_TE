@@ -121,4 +121,6 @@
 	uploading = "Lataus käynnissä...",
 	uploadingSuccess = "Ladattu ",
 	uploadingFailure = "Lataus epäonnistui: ",
+
+	Computerinfo = "Tietokoneen tiedot",
 }

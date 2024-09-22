@@ -121,4 +121,6 @@
 	uploading = "アップロード中です...",
 	uploadingSuccess = "Uploaded to ",
 	uploadingFailure = "アップロード失敗: ",
+
+	Computerinfo = "コンピュータ情報",
 }

@@ -64,7 +64,7 @@
 	newFile = "Bestand",
 	newFileFromURL = "Bestand van URL",
 	newImage = "Foto",
-	newApplication = "MineOS applicatie",
+	newApplication = "HillOS applicatie",
 	paste = "Plakken",
 	copy = "Kopiëren",
 	cut = "Knippen",
@@ -121,4 +121,6 @@
 	uploading = "Bezig met uploaden...",
 	uploadingSuccess = "Geüpload naar ",
 	uploadingFailure = "Uploaden mislukt: ",
+
+	Computerinfo = "Computerinformatie",
 }

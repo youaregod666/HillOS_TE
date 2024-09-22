@@ -121,4 +121,6 @@
 	uploading = "Йде завантаження...",
 	uploadingSuccess = "Завантажено в ",
 	uploadingFailure = "Помилка при завантаженні: ",
+
+	Computerinfo = "Інформація про комп'ютер",
 }

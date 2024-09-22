@@ -113,4 +113,6 @@
 	uploading = "Envio em andamento ...",
 	uploadingSuccess = "Envio para ",
 	uploadingFailure = "Falha no envio: "
+
+	Computerinfo = "Informações do computador",
 }

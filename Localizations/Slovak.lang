@@ -121,4 +121,6 @@
 	uploading = "Nahrávanie prebieha..",
 	uploadingSuccess = "Nahrané na ",
 	uploadingFailure = "Nahrávanie zlyhalo: ",
+
+	Computerinfo = "Informacije o računalniku",
 }

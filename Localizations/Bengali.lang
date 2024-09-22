@@ -112,4 +112,6 @@
 	uploading = "আপলোড চলছে ...",
 	uploadingSuccess = "আপলোড করা হয়েছে ",
 	uploadingFailure = "আপলোড ব্যর্থ হয়েছে: "
+
+	Computerinfo = "কম্পিউটার তথ্য",
 }

@@ -113,4 +113,6 @@
 	uploading = "Uploading in progres...",
 	uploadingSuccess = "Uploaded 2 ",
 	uploadingFailure = "Uploading faild: ",
+
+	Computerinfo = "Computer info",
 }

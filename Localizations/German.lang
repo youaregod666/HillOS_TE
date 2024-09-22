@@ -121,4 +121,6 @@
 	uploading = "Hochladen läuft...",
 	uploadingSuccess = "Hochgeladen",
 	uploadingFailure = "Hochladen fehlgeschlagen!",
+
+	Computerinfo = "Computerinformationen",
 }

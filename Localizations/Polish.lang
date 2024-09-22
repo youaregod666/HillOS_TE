@@ -121,4 +121,6 @@
 	uploading = "Trwa wysyłanie...",
 	uploadingSuccess = "Wysłano do ",
 	uploadingFailure = "Błąd wysyłania: "
+
+	Computerinfo = "Informacje o komputerze",
 }
