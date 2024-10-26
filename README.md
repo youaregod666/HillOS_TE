@@ -1,6 +1,6 @@
 ## You may want to know this
 
-This repository has the Libraries from [HillOS (SnowyHill branch)](https://github.com/youaregod666/HillOS/tree/SnowyHill) and everything else from [IMineOS TE](https://github.com/youaregod666/IMineOS_TE/)
+This repository has the Libraries from [HillOS (LittleVally Branch)](https://github.com/youaregod666/HillOS/tree/SnowyHill) and everything else from [IMineOS TE](https://github.com/youaregod666/IMineOS_TE/)
 
 ## HillOS TE has released!
 
