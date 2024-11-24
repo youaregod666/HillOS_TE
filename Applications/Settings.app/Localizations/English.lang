@@ -10,7 +10,8 @@
 	screenPreferredMonitor = "Monitor",
 	screenScaleInfo = "Using this option will allow you to select the optimal screen resolution to get rid of the \"black rectangles\" effect",
 	screenInvalidResolution = "The text in the input fields should consist of digits, should be greater than %d, and the maximum resolution should't exceed %d characters",
-
+	screenPreciseMode = "Precise mode",
+	
 	wallpaper = "Wallpaper",
 	wallpaperWallpaper = "Wallpaper",
 	wallpaperScreensaver = "Screensaver",
@@ -47,7 +48,7 @@
 	users = "Users",
 	
 	localizations = "Language",
-	localizationsInfo = "Do you want more language packs? Send pull request to the MineOS repository on GitHub",
+	localizationsInfo = "Do you want more language packs? Send pull request to the HillOS repository on GitHub",
 	
 	time = "Date and time",
 	timeFormat = "Date format",
@@ -105,4 +106,6 @@
 	usersClaim = "Claim computer block",
 	usersClaimInfo = "Additionally, you can create private access to your computer block for player with given name. To do it, player must be online",
 	usersClaimPlaceholder = "Type online player name",
+
+	personalization = "Personalization",
 }
