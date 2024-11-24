@@ -2654,15 +2654,6 @@ function system.updateDesktop()
 		overrideDockContainerDraw(dockContainer)
 	end
 
-	local ComOrTab = "Computer"
-
-	if tabletmode == true then
-		ComOrTab = "Tablet"
-	elseif tabletmode == false then
-		ComOrTab = "Computer"
-	end
-	--ComOrTab = "Tablet"
-
 	desktopWindowsContainer = workspace:addChild(GUI.container(1, 2, 1, 1))
 
 	desktopMenu = workspace:addChild(GUI.menu(1, 1, workspace.width, 0x0, 0x696969, 0x3366CC, 0xFFFFFF))
@@ -2702,7 +2693,7 @@ function system.updateDesktop()
 		workspace:draw()
 	end
 
-	desktopMenuMineOSItem:addItem(ComOrTab .. " Info").onTouch = function()
+	desktopMenuMineOSItem:addItem("Computer Info").onTouch = function()
 		local component = require("Component")
 		local container = GUI.addBackgroundContainer(workspace, true, true, localization.aboutSystem)
 		container.layout:removeChildren()
