@@ -745,3 +745,9 @@ end
 window:resize(window.width, window.height)
 
 onToolTouch(5)
+
+if system.BranchName_ == "dev_moonspace" then
+else
+	-- Branch Error
+	window:remove()
+end
