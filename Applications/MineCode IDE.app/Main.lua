@@ -12,6 +12,7 @@ local number = require("Number")
 
 ------------------------------------------------------------
 
+
 local config = {
 	leftTreeViewWidth = 23,
 	syntaxColorScheme = GUI.LUA_SYNTAX_COLOR_SCHEME,
@@ -174,10 +175,10 @@ actionButtons.close.onTouch = function()
 	window:remove()
 end
 actionButtons.maximize.onTouch = function()
-	window:maximize()
+	window:minimize()
 end
 actionButtons.minimize.onTouch = function()
-	window:minimize()
+	window:maximize()
 end
 
 local bottomToolBar = window:addChild(GUI.container(1, 1, 1, 3))
@@ -1849,6 +1850,12 @@ if initialPath and filesystem.exists(initialPath) then
 	openFile(initialPath)
 else
 	newFile()
+end
+
+if system.BranchName_ == "dev_moonspace" then
+else
+	-- Branch Error
+	window:remove()
 end
 
 workspace:draw()
